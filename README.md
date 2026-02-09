@@ -1,6 +1,5 @@
 # 🎧 GraphVerse – AI Powered Lyric Graph Composer 🚀
 
-
 > Transforming words into music using **Python + Graph Data Structures**
 
 
