@@ -3,6 +3,7 @@
 > Transforming words into music using **Python + Graph Data Structures**
 
 
+
 GraphVerse is a creative Python project that generates song lyrics using graph-based relationships between words, artists, and text patterns.
 It demonstrates how **data structures + creativity + Python** can build an intelligent lyric composer.
 
